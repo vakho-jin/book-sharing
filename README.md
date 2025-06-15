@@ -85,10 +85,10 @@ python manage.py runserver
 ## პროექტის სტრუქტურა
  - book-sharing/
  -    apps/
- -       authentication/    # მომხმარებლები და ავტორიზაცია
- -       books/             # წიგნების მართვა
- -       authors/           # ავტორების მართვა
- -       requests/          # წიგნების მოთხოვნის სისტემა
+ -    - authentication/    # მომხმარებლები და ავტორიზაცია
+ -    - books/             # წიგნების მართვა
+ -    - authors/           # ავტორების მართვა
+ -    - requests/          # წიგნების მოთხოვნის სისტემა
  -    config/               # Django პარამეტრები
  -    static/               # სტატიკური ფაილები
  -    media/                # ატვირთული ფაილები
