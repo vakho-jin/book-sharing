@@ -36,7 +36,7 @@ cd book-sharing
 python -m venv venv
 #ვირტუალური გარემოს აქტივაცია
 source venv/bin/activate  # Linux/Mac
-# или
+# ან
 venv\Scripts\activate  # Windows
 # დმაოკიდებულებების ინსტალაცია
 pip install -r requirements.txt
